@@ -1,18 +1,18 @@
-
-# ¤U¸ü¼i¾ú½m²ßÀÉ®×
+ï»¿
+# ä¸‹è¼‰å±¥æ­·ç·´ç¿’æª”æ¡ˆ
 https://github.com/andy19910102/html-cv-practice
 
-# Á¿¸q
-ºô­¶»s§@«e¸m§@·~ - ¯ó¹ÏÃ¸»s
+# è¬›ç¾©
+ç¶²é è£½ä½œå‰ç½®ä½œæ¥­ - è‰åœ–ç¹ªè£½
 https://hackmd.io/s/SyIZtJnYb
 
-¨Ï¥ÎGithubPages¬[³]ÀRºA­¶­±
+ä½¿ç”¨GithubPagesæ¶è¨­éœæ…‹é é¢
 https://hackmd.io/s/HJT2qi7sx
 
-CSS¶i¶¥½g
+CSSé€²éšç¯‡
 https://hackmd.io/p/ry89EUrQx#/
 
-# ÀRºAºô­¶¬[¯¸¤u¨ã
+# éœæ…‹ç¶²é æ¶ç«™å·¥å…·
 Git
 https://git-scm.com/
 
